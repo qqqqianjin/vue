@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+## 项目结构
+!(https://github.com/qqqqianjin/vue/blob/master/eleme(vue).png)
 ## Build Setup
 
 ``` bash
